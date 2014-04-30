@@ -1,10 +1,8 @@
-/** *
-
     @package basketACP
     @version $Id: 1.0.0
     @author Fred Radeff fradeff@akademia.ch
     @copyright (c) 2014 Fred Radeff, akademia.ch
-    @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later * */
+    @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
 Software for admin + basket of products for a contract farming organisation 
 Authentication based on Joomla!
@@ -13,6 +11,9 @@ Logiciel de gestion pour des commandes de produits divers
 pour une coopérative d'agriculture contractuelle de proximité (ACP) 
 
 Authentification basée sur Joomla!
+
+![basketACP snapshot](/basketACP.png?raw=true "basketACP")
+
 
 ######### HOWTO + infos #################
 This software is a fork based on
