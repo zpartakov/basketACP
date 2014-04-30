@@ -27,7 +27,7 @@ see https://github.com/zpartakov/cocagne
 
     * /var/www/cocagne/cms/components/com_hallo/views/hallo/tmp/default.php
 
-le composant "hallo" qui permet de récupérer l'authentification Joomla (aussi utilisé pour les DJ et les commandes de plantons, lorsque ce module sera actif - normalement en 2012)
+le composant "hallo" qui permet de récupérer l'authentification Joomla 
 
 READ
 - change banner: /admin/include/banner-top.gif
@@ -100,16 +100,14 @@ login to the administrator page. The default
 id and password is 'admin' ( without the quotes )
 _____________________________________________________
 
-Radeff install notes
+Zpartakov's install notes
 
-see also http://www.cocagne.ch/cms/aide/252-gerer-les-commandes
-
-the original software was found on http://www.phpwebcommerce.com/; 
+the original software can be found at https://github.com/sattip/upload_form/tree/master/plaincart
 
 the original software is in the current directory, unchanged, file 
 plaincart.zip
 
-it has been modified by fradeff@gmail.com for Cocagne's purposes, main modif are:
+it has been modified by Zpartakov for Cocagne's purposes, main modif are:
 
 - translation in french of both user / admin area
 - connection to joomla cms users (hallo component)

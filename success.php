@@ -4,7 +4,6 @@
 echo "<!--- test : " .$_SESSION['shop_return_url'] ."-->";
 
 $emailcommande="commandes@cocagne.ch"; //prod comment on test
-#$emailcommande="fradeff@gmail.com"; //test uncomment on prod
 
 require_once 'library/config.php';
 #require_once 'library/cart-functions.php';
